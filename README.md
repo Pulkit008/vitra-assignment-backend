@@ -1,4 +1,4 @@
-# Solulab Assignment [API](https://vitra-assignment-pulkit.herokuapp.com)
+# Vitra.ai [API](https://vitra-assignment-pulkit.herokuapp.com)
 
 Download or Clone the project
 
